@@ -1,56 +1,84 @@
 {
   "career": [
     {
-      "name": "DBS Bank",
-      "href": "https://www.dbs.com.sg",
-      "title": "Graduate Associate (SEED Programme)",
-      "logo": "/dbs.png",
-      "start": "Jul 2023",
+      "name": "ED",
+      "href": "https://ed.dev.br/",
+      "title": "FullStack Junior Developer",
+      "logo": "/ed.png",
+      "start": "Jul 2024",
       "description": [
-        "Developed the Java backend for a bank account servicing process with multiple channel integrations using Activiti workflow",
-        "Built a custom database migration tool using Python and MariaDB and facilitated the migration of 1000+ processes from a vendor platform"
-      ]
-    },
-    {
-      "name": "Singapore Institute of Technology",
-      "href": "https://www.singaporetech.edu.sg",
-      "title": "Software Developer (Contract)",
-      "logo": "/sit.png",
-      "start": "Apr 2023",
-      "end": "Jun 2023",
-      "description": [
-        "Built NFTVue, a NFT gallery website that allows students to connect their crypto wallets to view and verify their school event-issued NFTs",
-        "Worked on DemoConstruct, a full-stack web application (React + Python) that uses Meshroom to reconstruct 3D models from captured images"
+        "Created and maintained AI, back-end, and front-end projects, integrating an OpenAI-powered chatbot into Teams using N8N and Nocobase connected to the API.",
+        "Contributed to the back-end, delivering multiple features using Java 17 and Spring Boot 3 in a microservices architecture.",
+        "Refactored front-end components, updating outdated elements to the latest version of React 18."
       ],
-      "links": [
-        {
-          "name": "NFTVue",
-          "href": "https://nftvue.vercel.app",
-          "icon": "globe"
-        }
+      "stack": [
+        "Java",
+        "React.js",
+        ".NET",
+        "N8N",
+        "Docker",
+        "OpenAI"
       ]
     },
     {
-      "name": "DBS Bank",
-      "href": "https://www.dbs.com.sg",
-      "title": "Software Developer (Intern)",
-      "logo": "/dbs.png",
-      "start": "May 2022",
-      "end": "Dec 2022",
+      "name": "Ipnet Growth Partner",
+      "href": "https://www.ipnet.cloud/",
+      "title": "Data Science",
+      "logo": "/ipnet.png",
+      "start": "Dez 2023",
+      "end": "Jul 2024",
       "description": [
-        "Worked on the backend for the digital exchange and asset custody application using Spring Boot and Java",
-        "Built an admin dashboard web application for a DBS Metaverse event using Spring Security and Angular"
+        "Developed a document similarity system using Python, vector databases, and embeddings, optimizing search, creation, and analysis processes, addressing a critical issue faced by the company for two years.",
+        "Actively participated in deploying the application on Google Cloud Platform (GCP), using Virtual Machines and Google Cloud SQL.",
+        "Translated simulation proofs for certifications like Google Cloud Digital Leader, Google Professional Cloud Architect, and Google Associate Cloud Engineer using the Vertex AI textTranslate API."
+      ],
+      "stack": [
+        "GCP",
+        "Python",
+        "AI",
+        "Vertex AI",
+        "Docker"
       ]
     },
     {
-      "name": "Activate Interactive Pte Ltd",
+      "name": "Iuul",
+      "href": "https://iuul.com.br/",
+      "title": "Software Developer",
+      "logo": "/iuul.png",
+      "start": "Jun 2023",
+      "end": "Apr 2024",
+      "description": [
+        "Developed a system to monitor data, including price comparisons and stock analysis for specific products across multiple stores.",
+        "Actively contributed to all stages of the project, from application architecture to deployment.",
+        "Improved security and performance through testing and code refactoring, enhancing both the client and developer experience."
+      ],
+      "stack": [
+        "Node.js",
+        "Express",
+        "Sequelize",
+        "Azure",
+        "AWS",
+        "Puppeteer"
+      ]
+    },
+    {
+      "name": "Internit",
       "href": "https://www.activate.sg",
       "title": "Software Developer (Intern)",
-      "logo": "/activate.png",
-      "start": "May 2019",
-      "end": "Aug 2019",
+      "logo": "/internit.png",
+      "start": "Set 2022",
+      "end": "Dez 2023",
       "description": [
-        "Developed RP Connect, the iOS and Android mobile app for Republic Polytechnic using React Native"
+        "Worked on delivering new features and maintaining systems using various technologies such as PHP, Node.js, WordPress, and Next.js.",
+        "Participated in international-level projects, contributing to the growth and success of the team.",
+        "Played a key role in implementing new technologies, including migrating WordPress to Next.js, which improved delivery efficiency, team development, and customer satisfaction."
+      ],
+      "stack": [
+        "PHP",
+        "WordPress",
+        "Reactjs",
+        "Nextjs",
+        "Vercel"
       ]
     }
   ]

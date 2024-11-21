@@ -2,14 +2,13 @@ import { Experience } from "@/lib/schemas";
 import Link from "next/link";
 import { Avatar, AvatarFallback, AvatarImage } from "./ui/Avatar";
 import { Badge } from "./ui/Badge";
-import Icon from "./Icon";
 
 interface Props {
   experience: Experience;
 }
 
 export default function TimelineItem({ experience }: Props) {
-  const { name, href, title, logo, start, end, description, links } =
+  const { name, href, title, logo, start, end, description, stack } =
     experience;
 
   return (
@@ -48,15 +47,12 @@ export default function TimelineItem({ experience }: Props) {
           </ul>
         )}
       </div>
-      {links && links.length > 0 && (
+      {stack && stack.length > 0 && (
         <div className="mt-2 flex flex-row flex-wrap items-start gap-2">
-          {links?.map((link, idx) => (
-            <Link href={link.href} key={idx}>
-              <Badge key={idx} title={link.name} className="flex gap-2">
-                <Icon name={link.icon} aria-hidden="true" className="size-3" />
-                {link.name}
-              </Badge>
-            </Link>
+          {stack?.map((name, idx) => (
+            <Badge key={idx} title={name} className="flex gap-2">
+              {name}
+            </Badge>
           ))}
         </div>
       )}

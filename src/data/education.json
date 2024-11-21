@@ -1,37 +1,28 @@
 {
   "education": [
     {
-      "name": "Digipen Institute of Technology Singapore",
-      "href": "https://www.digipen.edu.sg",
-      "title": "BS in Computer Science in Real-Time Interactive Simulation",
-      "logo": "/digipen.png",
-      "start": "Sep 2019",
-      "end": "Apr 2023",
+      "name": "SmartCare",
+      "href": "https://raphael-abreu.github.io/projects/smartCare/",
+      "title": "Research Project",
+      "logo": "/smartcare.png",
+      "start": "Dez 2021",
+      "end": "Jan 2024",
       "description": [
-        "Graduated with a Minor in Mathematics",
-        "President of Digipen Student Management Committee for freshman year",
-        "3-time recipient of the Dean's Honor List"
-      ],
-      "links": [
-        {
-          "name": "Final Year Project",
-          "href": "https://games.digipen.edu/games/rapid-ride-fight",
-          "icon": "globe"
-        },
-        {
-          "name": "2nd Year Project",
-          "href": "https://games.digipen.edu/games/glowing-under",
-          "icon": "globe"
-        }
+        "Designed an IoT-based system to assist in home care for elderly Alzheimer’s patients by monitoring movement and detecting stress",
+        "Utilized AI to trigger non-pharmacological therapies, such as aromatherapy, sound, and lighting adjustments, to reduce agitation",
+        "Expanded the system with machine learning, data fusion, and interactive multimedia applications for enhanced functionality"
       ]
     },
     {
-      "name": "Singapore Polytechnic",
-      "href": "https://www.sp.edu.sg",
-      "title": "Diploma in Games Design and Development",
-      "logo": "/sp.png",
-      "start": "Apr 2014",
-      "end": "May 2017"
+      "name": "Unilasalle Rj",
+      "href": "https://www.unilasalle.edu.br/rj",
+      "title": "BS in Informational System",
+      "logo": "/facul.png",
+      "start": "Sep 2021",
+      "end": "Apr 2025",
+      "description": [
+        "Monitor in disciplines like Data Structure, Web Dev and Fundation of Programing"
+      ]
     }
   ]
 }

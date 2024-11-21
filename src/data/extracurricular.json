@@ -1,0 +1,28 @@
+{
+  "extracurricular": [
+    {
+      "name": "SpaceApps Nasa Hackathon",
+      "href": "https://raphael-abreu.github.io/projects/smartCare/",
+      "title": "Nasa Hackathon Mentor",
+      "start": "out 2023",
+      "logo": "/nasa.png",
+      "description": [
+        "Mentored over 250 participants in the NASA Space Apps Hackathon, providing technical guidance in programming languages such as Python, Ruby, and Kotlin.",
+        "Assisted in the development of 3D animations using Unity for Web and Mobile platforms.",
+        "Contributed to the success of diverse projects with insights into innovative technologies and workflows."
+      ]
+    },
+    {
+      "name": "Hackathon Camsat Uni Lasalle",
+      "href": "https://www.unilasalle.edu.br/rj",
+      "title": "Hackathon Winner ",
+      "logo": "/facul.png",
+      "start": "out 2022",
+      "description": [
+        "Led the winning team in the 2022 Microsatellite Hackathon, designing a CAMSAT with Arduino to capture data during its descent.",
+        "Built a Python-based Flask web application to display collected data in real time.",
+        "Showcased strong leadership and technical skills, achieving first place in a competitive environment."
+      ]
+    }
+  ]
+}

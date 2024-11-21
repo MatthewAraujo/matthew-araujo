@@ -36,18 +36,11 @@ export default async function Home() {
           <p className="mt-4 font-light">
             {/* Update my age */}
             {new Date().getFullYear() - MATTHEW_BIRTH_YEAR}
-            -year-old <s>game</s> software developer from Singapore 🇸🇬
+            -year-old software developer from Brazil
           </p>
           <p className="mt-2 font-light">
-            I like to develop full-stack, drink instant coffee and get coding
-            advice from my cat,{" "}
-            <Link
-              href="https://www.instagram.com/gomugomu.cat"
-              target="_blank"
-              className="link font-semibold"
-            >
-              Luffy.
-            </Link>
+            I love building full-stack applications, experimenting with new tech, and grabbing inspiration from my
+            projects. When I’m not coding, you’ll find me hanging out with my girlfriend.
           </p>
           <section className="mt-8 flex items-center gap-8">
             <Link href="/resume.pdf" target="_blank">
