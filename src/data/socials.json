@@ -2,17 +2,17 @@
   "socials": [
     {
       "name": "LinkedIn",
-      "href": "https://linkedin.com/in/matthew",
+      "href": "https://linkedin.com/in/eu-matthewaraujo",
       "icon": "linkedin"
     },
     {
       "name": "GitHub",
-      "href": "https://github.com/matthew",
+      "href": "https://github.com/MatthewAraujo",
       "icon": "github"
     },
     {
       "name": "Email",
-      "href": "mailto:hello@matthew.com",
+      "href": "mailto:matthewaraujo.dev@gmail.com",
       "icon": "mail"
     }
   ]

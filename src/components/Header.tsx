@@ -14,10 +14,10 @@ const navLinks = [
     name: "blog",
     href: "/blog",
   },
-  {
-    name: "contact",
-    href: "/contact",
-  },
+  // {
+  //   name: "contact",
+  //   href: "/contact",
+  // },
 ];
 
 export default function Header() {
