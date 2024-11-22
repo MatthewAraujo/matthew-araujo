@@ -20,7 +20,7 @@ export default function Posts({ posts }: Props) {
                 <div className="flex flex-col justify-between p-6 sm:flex-row sm:items-center">
                   <div className="max-w-md md:max-w-lg">
                     <h3 className="text-lg font-semibold">{post.title}</h3>
-                    <p className="mt-1 line-clamp-2 text-sm font-light text-muted-foreground">
+                    <p className="mt-1 line-clamp-3 text-sm font-light text-muted-foreground">
                       {post.summary}
                     </p>
                   </div>

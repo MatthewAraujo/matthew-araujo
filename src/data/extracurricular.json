@@ -5,6 +5,7 @@
       "href": "https://raphael-abreu.github.io/projects/smartCare/",
       "title": "Nasa Hackathon Mentor",
       "start": "out 2023",
+      "end": "out 2023",
       "logo": "/nasa.png",
       "description": [
         "Mentored over 250 participants in the NASA Space Apps Hackathon, providing technical guidance in programming languages such as Python, Ruby, and Kotlin.",
@@ -18,6 +19,7 @@
       "title": "Hackathon Winner ",
       "logo": "/facul.png",
       "start": "out 2022",
+      "end": "out 2022",
       "description": [
         "Led the winning team in the 2022 Microsatellite Hackathon, designing a CAMSAT with Arduino to capture data during its descent.",
         "Built a Python-based Flask web application to display collected data in real time.",

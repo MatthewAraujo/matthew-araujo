@@ -2,6 +2,7 @@ import Experience from "@/components/Experience";
 import LinkWithIcon from "@/components/LinkWithIcon";
 import Posts from "@/components/Posts";
 import Projects from "@/components/Projects";
+import Skills from "@/components/Skills";
 import Socials from "@/components/Socials";
 import { Button } from "@/components/ui/Button";
 import { getPosts } from "@/lib/posts";
@@ -39,8 +40,8 @@ export default async function Home() {
             -year-old software developer from Brazil
           </p>
           <p className="mt-2 font-light">
-            I love building full-stack applications, experimenting with new tech, and grabbing inspiration from my
-            projects. When I’m not coding, you’ll find me hanging out with my girlfriend.
+            I love building backend application, experimenting with new tech, and grabbing inspiration from
+            the open source community. When I’m not coding, you’ll find me hanging out with my girlfriend.
           </p>
           <section className="mt-8 flex items-center gap-8">
             <Link href="/resume.pdf" target="_blank">
@@ -55,6 +56,7 @@ export default async function Home() {
       </section>
 
       <Experience />
+      {/* <Skills /> */}
 
       <section className="flex flex-col gap-8">
         <div className="flex justify-between">

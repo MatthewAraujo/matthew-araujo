@@ -1,111 +1,79 @@
 {
   "projects": [
     {
-      "name": "Tradingview Telegram Alerts",
-      "description": "Real-time trading alerts with chart snapshots sent to Telegram, designed to keep traders informed and responsive to market changes",
-      "image": "/tv-tele-alerts.png",
+      "name": "Update-Golang CLI",
+      "description": "A CLI tool to automate updating Go installations on Linux. Fetches the latest version, removes the old one, and installs the new one seamlessly.",
+      "image": "",
       "tags": [
-        "Python",
-        "FastAPI",
-        "Docker",
-        "Fly.io",
-        "Selenium",
-        "Telegram Bot API"
+        "Golang",
+        "CLI Tool",
+        "Linux"
       ],
       "links": [
         {
           "name": "Source",
-          "href": "https://github.com/matthew/tradingview-telegram-alerts",
+          "href": "https://github.com/MatthewAraujo/update-golang",
           "icon": "github"
         }
       ]
     },
     {
-      "name": "NFTVue",
-      "description": "Non-Fungible Tokens (NFTs) Gallery Viewer website that allows users to connect their crypto wallets to view and verify their tokens",
-      "href": "https://nftvue.vercel.app",
-      "image": "/nftvue.png",
+      "name": "POSCOMP-Lab",
+      "description": "A responsive platform to simulate POSCOMP exams. Users can practice with previous exam questions, with or without time limits.",
+      "image": "",
+      "href": "https://matthewaraujo.github.io/poscomp-lab/",
       "tags": [
-        "NextJS",
+        "HTML5",
+        "CSS3",
+        "JavaScript",
         "TailwindCSS",
-        "MetaMask",
-        "WalletConnect",
-        "Web3",
-        "NFTScan",
-        "HashKey DID"
+        "Education"
       ],
       "links": [
         {
           "name": "Website",
-          "href": "https://nftvue.vercel.app",
+          "href": "https://matthewaraujo.github.io/poscomp-lab/",
           "icon": "globe"
         }
       ]
     },
     {
-      "name": "Portfolio 2023 (Outdated)",
-      "description": "Simple markdown portfolio made with Astro 🚀",
-      "href": "https://matthew-dot-com.netlify.app",
-      "image": "/old-portfolio.png",
+      "name": "Vacation Backend Application",
+      "description": "A backend application enabling users to share and explore vacation photos, highlighting beautiful and travel-friendly places worldwide.",
+      "image": "",
       "tags": [
-        "Astro",
-        "TailwindCSS",
-        "Netlify",
-        "SEO"
+        "Golang",
+        "Cloudflare R2",
+        "TursoDB",
+        "Redis",
+        "XCSF",
+        "Auth"
       ],
       "links": [
         {
-          "name": "Website",
-          "href": "https://matthew-dot-com.netlify.app",
-          "icon": "globe"
-        },
-        {
           "name": "Source",
-          "href": "https://github.com/matthew/portfolio-2023",
+          "href": "https://github.com/MatthewAraujo/update-golang",
           "icon": "github"
         }
       ]
     },
     {
-      "name": "Rapid Ride Fight (Final Year)",
-      "description": "3D capture-the-flag, multiplayer boat fighting, with smart AI and water graphics",
-      "href": "https://games.digipen.edu/games/rapid-ride-fight",
-      "image": "/rrf.png",
+      "name": "Notify",
+      "description": "A Golang application for GitHub repository notifications. Users can set up webhooks to receive email alerts about repository changes.",
+      "image": "",
       "tags": [
-        "C/C++",
-        "OpenGL",
-        "Custom Game Engine",
-        "3D"
+        "Golang",
+        "GitHub Webhooks",
+        "Email Notifications",
+        "TursoDB",
+        "Gorilla Mux",
+        "Goth"
       ],
       "links": [
         {
-          "name": "Gameplay",
-          "href": "https://www.youtube.com/watch?v=bge3fiypg5U",
-          "icon": "youtube"
-        },
-        {
-          "name": "Trailer",
-          "href": "https://www.youtube.com/watch?v=PNAO-aI1Daw",
-          "icon": "youtube"
-        }
-      ]
-    },
-    {
-      "name": "Glowing Under (2nd Year)",
-      "description": "2D platformer with a focus on puzzle-solving, no-death exploration and storytelling",
-      "href": "https://games.digipen.edu/games/glowing-under",
-      "image": "/gu.png",
-      "tags": [
-        "C/C++",
-        "OpenGL",
-        "Custom Game Engine",
-        "2D"
-      ],
-      "links": [
-        {
-          "name": "Trailer",
-          "href": "https://www.youtube.com/watch?v=u6RYwBZlSfg",
-          "icon": "youtube"
+          "name": "Source",
+          "href": "https://github.com/MatthewAraujo/update-golang",
+          "icon": "github"
         }
       ]
     }
