@@ -52,7 +52,7 @@
       "links": [
         {
           "name": "Source",
-          "href": "https://github.com/MatthewAraujo/update-golang",
+          "href": "https://github.com/MatthewAraujo/vacation-backend",
           "icon": "github"
         }
       ]
@@ -72,7 +72,7 @@
       "links": [
         {
           "name": "Source",
-          "href": "https://github.com/MatthewAraujo/update-golang",
+          "href": "https://github.com/MatthewAraujo/notify-api",
           "icon": "github"
         }
       ]
